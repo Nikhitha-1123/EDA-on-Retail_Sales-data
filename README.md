@@ -7,6 +7,7 @@ This project performs **Exploratory Data Analysis (EDA)** on a retail sales data
 
 
 ├── EDA_Retail_Sales.ipynb   # Main notebook containing EDA code and visualizations
+
 ├── README.md                # Project overview and setup guide
 
 
@@ -45,6 +46,7 @@ This project performs **Exploratory Data Analysis (EDA)** on a retail sales data
 ## 📬 Contact
 
 For questions or collaboration, reach out to:
+
 **Nikhitha**
 
 📧 nikhithachallagonda@gmail.com
