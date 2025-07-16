@@ -24,7 +24,7 @@ This project performs **Exploratory Data Analysis (EDA)** on a retail sales data
 * **Pandas**
 * **NumPy**
 * **Matplotlib & Seaborn**
-* **Plotly** (Optional, for interactive plots)
+* **Plotly** 
 * **Jupyter Notebook**
 
 
@@ -42,22 +42,13 @@ This project performs **Exploratory Data Analysis (EDA)** on a retail sales data
 * Low-performing items identified for potential discontinuation
 * Suggestions for inventory restocking and seasonal promotions
 
-
-## 📂 Dataset
-
-This project uses a sample retail sales dataset, including:
-
-* Product category and item
-* Sales quantity and price
-* Serving size (if food-related)
-* Sales dates (for time series analysis)
-
-
 ## 📬 Contact
 
 For questions or collaboration, reach out to:
 **Nikhitha**
+
 📧 nikhithachallagonda@gmail.com
+
 🌐 https://www.linkedin.com/in/nikhitha-challagonda
 
 
