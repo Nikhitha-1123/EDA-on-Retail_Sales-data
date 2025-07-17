@@ -1,15 +1,15 @@
-## 🛍️ Exploratory Data Analysis on Retail Sales
+# 🛍️ Exploratory Data Analysis on Retail Sales
 
 This project performs **Exploratory Data Analysis (EDA)** on a retail sales dataset using Python. The goal is to uncover key trends, patterns, and insights to better understand product performance, sales trends, and customer behavior.
 
-# 📊 Key Objectives
+### 📊 Key Objectives
 * Analyze sales trends over time (Time Series Analysis)
 * Understand product-wise and category-wise performance
 * Perform customer segmentation and behavior analysis
 * Identify seasonal patterns and anomalies
 * Visualize findings using matplotlib, seaborn, and plotly
 
-# 🧪 Technologies Used
+### 🧪 Technologies Used
 * Python
 * Pandas
 * NumPy
@@ -18,53 +18,53 @@ This project performs **Exploratory Data Analysis (EDA)** on a retail sales data
 * Jupyter Notebook
 
 
-# 📈 Sample Visualizations
+### 📈 Sample Visualizations
 * Bar Charts for top-selling categories/products
 * Line Graphs for monthly/weekly sales
 * Heatmaps for correlations and seasonal trends
 * Pie Charts for product distribution
 
-# 📌 Insights & Recommendations
+### 📌 Insights & Recommendations
 * Certain product categories dominate revenue during holiday seasons
 * Low-performing items identified for potential discontinuation
 * Suggestions for inventory restocking and seasonal promotions
 
 
-## 📱 Google Play Store App Analysis
+# 📱 Google Play Store App Analysis
 
 > ✅ Level 2- Task 4 (Oasis Infobyte Internship)
 
 This project involves data cleaning, exploratory data analysis (EDA), and sentiment analysis on Google Play Store data.
 
-# 📂 Datasets Used
+### 📂 Datasets Used
 - `apps.csv`: Contains metadata of apps (category, installs, rating, price, etc.)
 - `user_reviews.csv`: User reviews with sentiments (positive, negative, neutral)
 
-# 🎯 Objectives
+### 🎯 Objectives
 - Clean and prepare data for analysis
 - Explore app categories and trends
 - Analyze metrics like rating, installs, price
 - Perform sentiment analysis on reviews
 - Create interactive visualizations using Plotly
 
-# 🧠 What I Learned
+### 🧠 What I Learned
 - Data preprocessing and handling real-world datasets
 - Exploratory analysis using pandas, matplotlib, seaborn
 - Interactive plotting with Plotly
 - Sentiment labeling and review analysis
 - Gained practical skills in storytelling with data
 
-# 📊 Visuals
+### 📊 Visuals
 All visualizations are included in the Jupyter Notebook, including interactive charts.
 
-# 🚀 Tools Used
+### 🚀 Tools Used
 - Python
 - Pandas
 - Matplotlib & Seaborn
 - Plotly
 - Jupyter Notebook
 
-## 📬 Contact
+# 📬 Contact
 
 For questions or collaboration, reach out to:
 
