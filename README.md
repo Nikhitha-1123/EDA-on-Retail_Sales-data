@@ -37,39 +37,69 @@ This project performs **Exploratory Data Analysis (EDA)** on a retail sales data
 * Suggestions for inventory restocking and seasonal promotions
 
 
-# 📱 Google Play Store App Analysis
 
-> ✅ Level 2- Task 4
+# 🍷 Wine Quality Prediction using Machine Learning
 
-This project involves data cleaning, exploratory data analysis (EDA), and sentiment analysis on Google Play Store data.
+> ✅ Level 2- Task 2
 
-### 📂 Datasets Used
-- `apps.csv`: Contains metadata of apps (category, installs, rating, price, etc.)
-- `user_reviews.csv`: User reviews with sentiments (positive, negative, neutral)
+This project focuses on predicting the quality of red wine based on physicochemical attributes using multiple classification models. The goal is to analyze key chemical properties and apply machine learning classifiers to predict wine quality effectively.
 
-### 🎯 Objectives
-- Clean and prepare data for analysis
-- Explore app categories and trends
-- Analyze metrics like rating, installs, price
-- Perform sentiment analysis on reviews
-- Create interactive visualizations using Plotly
+### 📂 Dataset Used
 
-### 🧠 What I Learned
-- Data preprocessing and handling real-world datasets
-- Exploratory analysis using pandas, matplotlib, seaborn
-- Interactive plotting with Plotly
-- Sentiment labeling and review analysis
-- Gained practical skills in storytelling with data
+- `WineQT.csv`: Contains chemical properties of red wines and corresponding quality scores (ranging from 3 to 8).
 
-### 📊 Visuals
-All visualizations are included in the Jupyter Notebook, including interactive charts.
 
-### 🚀 Tools Used
-- Python
-- Pandas
-- Matplotlib & Seaborn
-- Plotly
-- Jupyter Notebook
+### 📌 Key Concepts Covered
+
+- **Classifier Models**: Random Forest, Stochastic Gradient Descent (SGD), Support Vector Classifier (SVC)
+- **Chemical Analysis**: Focus on density, acidity, alcohol, sulphates, etc.
+- **Data Handling**: Pandas and NumPy for cleaning and manipulation
+- **Visualization**: Correlation heatmaps, boxplots, and confusion matrices using Seaborn and Matplotlib
+
+
+### 🛠️ Project Workflow
+
+1. Data Loading & Exploration
+2. Data Cleaning and Feature Selection
+3. Exploratory Data Analysis (EDA)
+4. Feature Scaling using StandardScaler
+5. Train-Test Split
+6. Model Training:
+   - Random Forest Classifier
+   - SGD Classifier
+   - SVC (Support Vector Classifier)
+7. Model Evaluation:
+   - Classification Report
+   - Confusion Matrix
+   - Feature Importance
+   - Cross-Validation (Optional)
+
+
+
+### 📈 Model Evaluation
+
+Each model was evaluated using classification metrics such as:
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- Confusion Matrix
+
+
+
+### 🔍 Feature Importance
+
+The Random Forest classifier revealed that `alcohol`, `sulphates`, and `volatile acidity` were among the most influential factors in predicting wine quality.
+
+
+
+### 📌 Requirements
+
+- Python 3.x
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- scikit-learn
+
 
 # 💳 Credit Card Fraud Detection Project
 
@@ -121,6 +151,46 @@ This project explores a real-world credit card dataset and applies both **unsupe
 - Save and deploy model via Flask API
 - Stream data using Kafka for true real-time scoring
 - Set up dashboard for live fraud alerts
+
+
+
+
+
+# 📱 Google Play Store App Analysis
+
+> ✅ Level 2- Task 4
+
+This project involves data cleaning, exploratory data analysis (EDA), and sentiment analysis on Google Play Store data.
+
+### 📂 Datasets Used
+- `apps.csv`: Contains metadata of apps (category, installs, rating, price, etc.)
+- `user_reviews.csv`: User reviews with sentiments (positive, negative, neutral)
+
+### 🎯 Objectives
+- Clean and prepare data for analysis
+- Explore app categories and trends
+- Analyze metrics like rating, installs, price
+- Perform sentiment analysis on reviews
+- Create interactive visualizations using Plotly
+
+### 🧠 What I Learned
+- Data preprocessing and handling real-world datasets
+- Exploratory analysis using pandas, matplotlib, seaborn
+- Interactive plotting with Plotly
+- Sentiment labeling and review analysis
+- Gained practical skills in storytelling with data
+
+### 📊 Visuals
+All visualizations are included in the Jupyter Notebook, including interactive charts.
+
+### 🚀 Tools Used
+- Python
+- Pandas
+- Matplotlib & Seaborn
+- Plotly
+- Jupyter Notebook
+
+
 
 
 
