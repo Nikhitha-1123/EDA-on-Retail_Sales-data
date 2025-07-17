@@ -1,5 +1,7 @@
 # 🛍️ Exploratory Data Analysis on Retail Sales
+
 > ✅ Level 1- Task 1
+
 This project performs **Exploratory Data Analysis (EDA)** on a retail sales dataset using Python. The goal is to uncover key trends, patterns, and insights to better understand product performance, sales trends, and customer behavior.
 
 ### 📂 Datasets Used
@@ -36,7 +38,9 @@ This project performs **Exploratory Data Analysis (EDA)** on a retail sales data
 
 
 # 📱 Google Play Store App Analysis
+
 > ✅ Level 2- Task 4
+
 This project involves data cleaning, exploratory data analysis (EDA), and sentiment analysis on Google Play Store data.
 
 ### 📂 Datasets Used
