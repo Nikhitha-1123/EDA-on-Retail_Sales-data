@@ -4,6 +4,7 @@ This project performs **Exploratory Data Analysis (EDA)** on a retail sales data
 
 ### 📂 Datasets Used
 -`retail_sales_dataset.csv`: Contains transaction data (date, item, category, quantity sold, total sales)
+
 -`menu.csv`: Includes item metadata (category, serving size, price, and nutritional info)
 
 ### 📊 Key Objectives
