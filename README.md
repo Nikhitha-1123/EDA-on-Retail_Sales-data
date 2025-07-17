@@ -2,7 +2,7 @@
 # DATA ANALYTICS INTERNSHIP PROJECTS
 
 
-# 🛍️ Exploratory Data Analysis on Retail Sales
+# PROJECT1 : 🛍️ Exploratory Data Analysis on Retail Sales
 
 > ✅ Level 1- Task 1
 
@@ -41,7 +41,7 @@ This project performs **Exploratory Data Analysis (EDA)** on a retail sales data
 * Suggestions for inventory restocking and seasonal promotions
 
 
-# 🧠 Customer Segmentation Analysis
+# PROJECT2 : 🧠 Customer Segmentation Analysis
 
 > ✅ Level 1- Task 2
 
@@ -67,7 +67,7 @@ This project focuses on segmenting customers based on their demographics and pur
 ### 📊 Result
 Successfully segmented customers into meaningful groups using KMeans clustering. Provided actionable insights for marketing and targeting based on income, age, and purchase behaviors.
 
-# 🏙️ Data Cleaning
+# PROJECT3 : 🏙️ Data Cleaning
 
 > ✅ Level 1- Task 3
 
@@ -110,7 +110,7 @@ Cleaned dataset: `AB_NYC_2019_cleaned.csv`
 
 
 
-# 🧠 Sentiment Analysis using NLP and Machine Learning
+# PROJECT4 : 🧠 Sentiment Analysis using NLP and Machine Learning
 
 > ✅ Level 1- Task 4
 
@@ -153,7 +153,7 @@ Successfully built a sentiment analysis pipeline capable of processing raw text 
 
 
 
-# 🏡 Housing Price Prediction using Linear Regression
+# PROJECT5 : 🏡 Housing Price Prediction using Linear Regression
 
 > ✅ Level 2- Task 1
 
@@ -218,7 +218,7 @@ The model successfully predicted housing prices with reasonable accuracy using l
 
 
 
-# 🍷 Wine Quality Prediction using Machine Learning
+# PROJECT6 : 🍷 Wine Quality Prediction using Machine Learning
 
 > ✅ Level 2- Task 2
 
@@ -281,7 +281,7 @@ The Random Forest classifier revealed that `alcohol`, `sulphates`, and `volatile
 - scikit-learn
 
 
-# 💳 Credit Card Fraud Detection Project
+# PROJECT7 : 💳 Credit Card Fraud Detection Project
 
 >✅ Level 2- Task 3
 
@@ -336,7 +336,7 @@ This project explores a real-world credit card dataset and applies both **unsupe
 
 
 
-# 📱 Google Play Store App Analysis
+# PROJECT8 : 📱 Google Play Store App Analysis
 
 > ✅ Level 2- Task 4
 
@@ -369,6 +369,11 @@ All visualizations are included in the Jupyter Notebook, including interactive c
 - Matplotlib & Seaborn
 - Plotly
 - Jupyter Notebook
+
+
+
+
+
 
 
 
